@@ -1,1 +1,1 @@
-Shell basics project
+This repository is about Shell basics.
